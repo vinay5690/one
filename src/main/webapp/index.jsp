@@ -573,7 +573,7 @@
                 <h1> New trendy Outlooks vinay Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
-                    <button class="btn btn-primary" id="Buy Now">Shop Now <em class="fas fa-arrow-right"></em></button>
+                    <button class="btn btn-primary" id="shopNow">Buy Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
                 </div>
             </div>
